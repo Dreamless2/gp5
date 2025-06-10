@@ -151,6 +151,7 @@ li {
 }
 
 table {
+    font-size: 12px;
     width: 100%;
     border-collapse: collapse;
     margin-bottom: 20px;
